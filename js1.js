@@ -1,2 +1,2 @@
 var x = document.getElementById("100") ;
-x.innerHTML="7:59"
+x.innerHTML="5:55"
